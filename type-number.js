@@ -1,3 +1,5 @@
+//tipo number
+
 const meuNumero = 3;
 
 const primeiroNumero = 1;
@@ -11,13 +13,11 @@ console.log(operacaoMatematica);
 const numeroPontoFluente = 3.3;
 const pontoFluenteSemZero = .5;
 
-const novaOperacao = primeiroNumero / numeroPontoFLuente;
+const novaOperacao = primeiroNumero/ numeroPontoFluente;
 
-console.log(novaOperacao);
+console.log (novaOperacao)
 
 //Nan 
 
 const alura = "Alura";
-console.log(alura * primeiroNumero);
-
-
+console.log(alura*primeiroNumero);
